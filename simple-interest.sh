@@ -15,3 +15,4 @@ read t
 s=`expr $p \* $t \* $r / 100`
 echo "L'intérêt simple est : "
 echo $s
+
